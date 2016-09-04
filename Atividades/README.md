@@ -1,2 +1,2 @@
 # Atividades
-Atividades realizadas durantes as aulas de Programação Estruturada.
+Atividades realizadas durante as aulas de Programação Estruturada.
