@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+char a,b,c,d,e,f,g,h,i;
+scanf("%c %c %c",&a,&b,&c);
+scanf("%c %c %c",&d,&e,&f);
+scanf("%c %c %c",&g,&h,&i);
+
+
+
+    char matriz[3][3] = {{'O',b,c,},
+                         {d,e,f},
+                         {g,h,i}};
+
+
+   printf("%c %c %c\n",matriz[0][0],matriz[0][1],matriz[0][2]);
+   printf("%c %c %c\n",matriz[1][0],matriz[1][1],matriz[1][2]);
+   printf("%c %c %c\n",matriz[2][0],matriz[2][1],matriz[2][2]);
+
+return 0;
+}
